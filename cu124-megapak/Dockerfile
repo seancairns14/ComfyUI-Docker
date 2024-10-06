@@ -101,7 +101,8 @@ RUN pip install --no-cache-dir \
     svglib \
     tqdm \
     ffmpeg-python \
-    lark-parser
+    lark-parser \
+    ComfyUI-EasyNodes
 
 ################################################################################
 # PyTorch, xFormers
